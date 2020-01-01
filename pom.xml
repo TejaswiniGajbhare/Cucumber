@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>CucumberTest</groupId>
 	<artifactId>CucumberTest</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<dependencies>
 
@@ -12,7 +12,7 @@
 			<groupId>info.cukes</groupId>
 			<artifactId>cucumber-java</artifactId>
 			<version>1.2.5</version>
-			<scope>test</scope>
+			<scope>sample</scope>
 		</dependency>
 
 		<dependency>
