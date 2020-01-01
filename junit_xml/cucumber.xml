@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="0.133455">
+<testcase classname="Hooks Demo" name="Loing Test" time="0.131427">
+<system-out><![CDATA[Given User is on Home Page..................................................passed
+When User see the Page......................................................passed
+Then User is Happy..........................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Hooks Demo" name="First Test" time="0.000921">
+<system-out><![CDATA[Given User is on One Page...................................................passed
+When User see the Page one..................................................passed
+Then User is HappyOne.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Hooks Demo" name="Second Test" time="0.000422">
+<system-out><![CDATA[Given User is on Two Page...................................................passed
+When User see the Page Two..................................................passed
+Then User is HappyTwo.......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Hooks Demo" name="Third Test" time="0.000685">
+<system-out><![CDATA[Given User is on Three Page.................................................passed
+When User see the Page Three................................................passed
+Then User is HappyThree.....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
